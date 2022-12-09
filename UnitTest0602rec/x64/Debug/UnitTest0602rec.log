@@ -1,0 +1,4 @@
+﻿  UnitTest0602rec.cpp
+C:\uni\labs\Lab_06_02rec\Lab_06_02rec.cpp(31,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\uni\labs\UnitTest0602rec\UnitTest0602rec.cpp(16): warning C4715: 'Test': not all control paths return a value
+  UnitTest0602rec.vcxproj -> C:\uni\labs\Lab_06_02rec\x64\Debug\UnitTest0602rec.dll
